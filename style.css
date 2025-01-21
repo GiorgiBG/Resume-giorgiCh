@@ -137,6 +137,10 @@ a:hover{
   flex-direction: column;
   gap: 1rem;
 }
+
+/* ************** */
+/* Media          */
+/* ************** */
 @media  (width <= 1000px) {
     .main-container{
       width: 800px;
